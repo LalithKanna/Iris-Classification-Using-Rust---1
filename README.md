@@ -148,35 +148,35 @@ python plots.py
 ---
 ### 🧠 Key Learnings
 
--Deep understanding of neural network internals
+- Deep understanding of neural network internals
 
--Confidence in architectural decision-making
+- Confidence in architectural decision-making
 
--Practical experience with Rust for numerical computing
+- Practical experience with Rust for numerical computing
 
--Insight into why Rust is suitable for memory-safe, high-performance ML systems
+- Insight into why Rust is suitable for memory-safe, high-performance ML systems
 
 ---
 
 ### 🦀 Why Rust for Machine Learning?
 
--Memory safety without garbage collection
+- Memory safety without garbage collection
 
--High performance and fine-grained control
+- High performance and fine-grained control
 
--Suitable for edge AI and production systems
+- Suitable for edge AI and production systems
 
--Growing ML ecosystem
+- Growing ML ecosystem
 
 ---
 
 ### ⭐ Acknowledgments
 
--UCI Iris Dataset
+- UCI Iris Dataset
 
--Rust community
+- Rust community
 
--Learning by doing 🚀
+- Learning by doing 🚀
 
 ---
 
