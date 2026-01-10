@@ -155,7 +155,7 @@ python plots.py
 -Practical experience with Rust for numerical computing
 
 -Insight into why Rust is suitable for memory-safe, high-performance ML systems
----
+
 ### 🦀 Why Rust for Machine Learning?
 
 -Memory safety without garbage collection
@@ -165,20 +165,8 @@ python plots.py
 -Suitable for edge AI and production systems
 
 -Growing ML ecosystem
----
 
-### 🚀 Future Improvements
 
--Mini-batch shuffling per epoch
-
--Adam optimizer
-
--Multiple hidden layers
-
--Configurable architectures
-
--Benchmarking against ML libraries
----
 ###⭐ Acknowledgments
 
 -UCI Iris Dataset
@@ -186,4 +174,4 @@ python plots.py
 -Rust community
 
 -Learning by doing 🚀
----
+
