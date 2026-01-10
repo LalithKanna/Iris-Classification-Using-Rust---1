@@ -156,6 +156,8 @@ python plots.py
 
 -Insight into why Rust is suitable for memory-safe, high-performance ML systems
 
+---
+
 ### 🦀 Why Rust for Machine Learning?
 
 -Memory safety without garbage collection
@@ -166,12 +168,15 @@ python plots.py
 
 -Growing ML ecosystem
 
+---
 
-###⭐ Acknowledgments
+### ⭐ Acknowledgments
 
 -UCI Iris Dataset
 
 -Rust community
 
 -Learning by doing 🚀
+
+---
 
